@@ -102,10 +102,7 @@ namespace RNG
                 {
                     if (tekrarla == true)
                     {
-                        if (geliceksans != i || geliceksans == 0)
-                        {
-                        }
-                        else
+                        if (geliceksans == i && geliceksans != 0)
                         {
                             tekrarla = false;
                         }
