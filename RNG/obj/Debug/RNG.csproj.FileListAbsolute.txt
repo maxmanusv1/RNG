@@ -1,0 +1,6 @@
+C:\Users\KADIR\Source\Repos\RNG\RNG\bin\Debug\RNG.exe.config
+C:\Users\KADIR\Source\Repos\RNG\RNG\bin\Debug\RNG.exe
+C:\Users\KADIR\Source\Repos\RNG\RNG\bin\Debug\RNG.pdb
+C:\Users\KADIR\Source\Repos\RNG\RNG\obj\Debug\RNG.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\Source\Repos\RNG\RNG\obj\Debug\RNG.exe
+C:\Users\KADIR\Source\Repos\RNG\RNG\obj\Debug\RNG.pdb
